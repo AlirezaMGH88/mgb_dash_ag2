@@ -10,3 +10,4 @@ _archive
 /data/bpr_image
 /models/*
 /codes/load_classify_hip.py
+.env/
